@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manohar8269&label=Profile%20views&color=0e75b6&style=flat" alt="manohar8269" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React.js & Python**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/manohar8269/sites](https://app.netlify.com/teams/manohar8269/sites)
 
