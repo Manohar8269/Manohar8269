@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Manohar Singh Thakur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDF1bm9uajMxZTIwYTJ1a2Zma3NlZmNlZWRhNTJhcG1qdWl0a3BrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oF1KAEYvmXBMo6uTS/giphy.gif">
+<img align="right" alt="coding" width="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDF1bm9uajMxZTIwYTJ1a2Zma3NlZmNlZWRhNTJhcG1qdWl0a3BrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oF1KAEYvmXBMo6uTS/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manohar8269&label=Profile%20views&color=0e75b6&style=flat" alt="manohar8269" /> </p>
 
