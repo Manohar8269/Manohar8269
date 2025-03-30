@@ -1,3 +1,4 @@
+![logo](https://github.com/Manohar8269/Manohar8269/blob/main/Manohar.png)
 <h1 align="center">Hi 👋, I'm Manohar Singh Thakur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
