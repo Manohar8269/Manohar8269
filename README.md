@@ -10,9 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/manohar8269/sites](https://app.netlify.com/teams/manohar8269/sites)
 
-- 💬 Ask me about **React.js & Canva**
-
-- 📫 How to reach me **thakurmanohar833@gmail.com**
+- 📫 How to reach me **thakurmanohar833@gmail.com & 8269185071**
 
 - ⚡ Fun fact **I think i am very Funny😂😒😂**
 
